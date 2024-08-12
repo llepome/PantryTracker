@@ -1,0 +1,19 @@
+{
+    "npm.enableRunFromFolder": false,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.codeLens": false,
+    "editor.scrollbar.horizontal": "visible",
+    "editor.scrollbar.vertical": "visible",
+    "editor.cursorWidth": 3,
+    "diffEditor.codeLens": true,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorStyleInactive": "line",
+    "terminal.integrated.cursorWidth": 3,
+    "git.showPushSuccessNotification": true,
+    "standard.usePackageJson": true,
+    "path-intellisense.showHiddenFiles": true,
+    "node-module-intellisense.modulePaths": [
+        
+    ]
+}
