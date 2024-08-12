@@ -1,0 +1,26 @@
+Support Icon
+<a href="https://www.flaticon.com/free-icons/help" title="help icons">Help icons created by Freepik - Flaticon | Pulled 2024-07-31 Lisa LePome</a>
+Site Reliability
+<a href="https://www.flaticon.com/free-icons/reliability" title="reliability icons">Reliability icons created by Dewi Sari - Flaticon | Pulled 2024-07-31 Lisa LePome</a>
+Project Manaagement
+<a href="https://www.flaticon.com/free-icons/professional" title="professional icons">Professional icons created by Flat Icons - Flaticon | Pulled 2024-07-31 Lisa LePome</a>
+Business Analytics
+<a href="https://www.flaticon.com/free-icons/data-analytics" title="data analytics icons">Data analytics icons created by Freepik - Flaticon | Pulled 2024-07-31 Lisa LePome</a>
+
+
+Help
+<a href="https://www.flaticon.com/free-icons/help" title="help icons">Help icons created by Freepik - Flaticon | Pulled 2024-07-31 Lisa LePome</a>
+Engineer
+<a href="https://www.flaticon.com/free-icons/engineer" title="engineer icons">Engineer icons created by Iconjam - Flaticon | Pulled 2024-07-31 Lisa LePome</a>
+Success Engineer
+<a href="https://www.flaticon.com/free-icons/business-and-finance" title="business and finance icons">Business and finance icons created by zero_wing - Flaticon | Pulled 2024-07-31 Lisa LePome</a>
+Business Analyst
+<a href="https://www.flaticon.com/free-icons/analyst" title="analyst icons">Analyst icons created by Uniconlabs - Flaticon | Pulled 2024-07-31 Lisa LePome</a>
+Reliability Engineer
+<a href="https://www.flaticon.com/free-icons/reliable" title="reliable icons">Reliable icons created by Uniconlabs - Flaticon | Pulled 2024-07-31 Lisa LePome</a>
+Project Manager
+<a href="https://www.flaticon.com/free-icons/knowledge" title="knowledge icons">Knowledge icons created by Uniconlabs - Flaticon | Pulled 2024-07-31 Lisa LePome</a>
+Support hands
+<a href="https://www.flaticon.com/free-icons/help" title="help icons">Help icons created by Uniconlabs - Flaticon | Pulled 2024-07-31 Lisa LePome</a>
+helpdesk
+<a href="https://www.flaticon.com/free-icons/helpdesk" title="helpdesk icons">Helpdesk icons created by Freepik - Flaticon | Pulled 2024-07-31 Lisa LePome</a>
